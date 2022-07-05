@@ -384,7 +384,9 @@ footer p:nth-child(2){
 	background-position: 00%;
 	background-color: antiquewhite;
 	background-position-x: center;
+	background-size: cover;
 	margin-left: 10px
+
 	
 	
 	
@@ -403,9 +405,9 @@ td {
 	border-bottom: 1px solid rgb(128, 128, 121);
 	padding-bottom: 80px;
 	text-align: center;
-	background-color:grey;
-	background-image: url(/img/polymesh2-08-01.jpg);
-  
+	/* background-color:rgb(117, 192, 230); */
+	background-image: url(https://c4.wallpaperflare.com/wallpaper/437/160/1011/triangle-abstract-gradient-soft-gradient-wallpaper-preview.jpg);
+    background-size: cover;
 	
   }
   .message-wrapper h2{
@@ -432,4 +434,4 @@ td {
   }
 .container{
 	padding-top: 10px;
-
+}
